@@ -1,1 +1,1 @@
-# Sed3000-k8s-u-r
+Kubernetes Up and Running
